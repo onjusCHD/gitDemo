@@ -12,7 +12,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             
-            
+            // this is master branch
             Console.WriteLine("Hello GIT");
             Log.Logger.Information("hello Nav");
             Console.ReadLine();
